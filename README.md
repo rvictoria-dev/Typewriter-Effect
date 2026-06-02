@@ -31,4 +31,4 @@ This project gave me a better understanding of CSS animations and showed me how 
 
 ### 🎬 Preview
 
-
+https://github.com/user-attachments/assets/6b93368d-f086-4264-9aa9-2bbc377c2adf
