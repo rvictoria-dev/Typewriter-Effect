@@ -2,7 +2,7 @@
 
 ### ✨About 
 
-***Typewriter Effect*** is a front-end project that recreates the appearance of text being typed on the screen Typewriter Effect is a front-end project that recreates the appearance of text being typed on the screen using only HTML and CSS. The animation reveals characters progressively, creating a classic typewriter-style effect without the use of JavaScript. This project demonstrates the use of CSS animations, timing functions, and creative styling techniques to build engaging user interfaces.
+***Typewriter Effect*** is a front-end project that recreates the appearance of text being typed on the screen using only HTML and CSS. The animation reveals characters progressively, creating a classic typewriter-style effect without the use of JavaScript. This project demonstrates the use of CSS animations, timing functions, and creative styling techniques to build engaging user interfaces.
 
 ---
 
