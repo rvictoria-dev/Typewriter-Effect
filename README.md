@@ -29,4 +29,6 @@ This project gave me a better understanding of CSS animations and showed me how 
 
 ---
 
-### 🎞️ Preview
+### 🎬 Preview
+
+
