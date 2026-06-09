@@ -6,6 +6,24 @@
 
 ---
 
+### 📁 Project structure
+
+```
+typewriter-effect/
+├── index.html
+├── style.css
+└── README.md
+```
+
+---
+
+### 🛠️ Built With
+
+- HTML
+- CSS
+
+---
+
 ### 💡 What I learned
 
 While building this project, I learned several useful CSS concepts and techniques:
@@ -19,13 +37,6 @@ While building this project, I learned several useful CSS concepts and technique
 - How the ``step-end`` timing function works and how it can be used to create a blinking cursor effect by updating the animation at the end of each step.
 
 This project gave me a better understanding of CSS animations and showed me how powerful pure HTML and CSS can be for creating interactive user experiences.
-
----
-
-### 🛠️ Built With
-
-- HTML
-- CSS
 
 ---
 
